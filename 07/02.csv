@@ -1,0 +1,388 @@
+"astro-ph/0607006","Konstantin V. Getman","Konstantin V. Getman (Penn State), Eric D. Feigelson, Gordon Garmire,
+  Patrick Broos, Junfeng Wang","X-ray Study of Triggered Star Formation and Protostars in IC 1396N","50 pages, 11 figures, 6 tables, accepted for publication in ApJ
+  09/11/06","Astrophys.J.654:316-337,2006","10.1086/509112",,"astro-ph",,"  The IC 1396N cometary globule within the large nearby HII region IC 1396 has
+been observed with the ACIS detector on board the Chandra X-ray Observatory. We
+detect 117 X-ray sources, of which ~50-60 are likely members of the young open
+cluster Trumpler~37 dispersed throughout the HII region, and 25 are associated
+with young stars formed within the globule. Spitzer/2MASS photometry shows the
+X-ray population is very young: 3 older Class III stars, 16 classical T Tauri
+stars, 6 protostars including a Class 0/I system. We infer a total T Tauri
+population of ~30 stars in the globule, including the undetected population,
+with a star formation efficiency of 1-4%. An elongated source spatial
+distribution with an age gradient oriented towards the exciting star is
+discovered in the X-ray population of IC 1396N, supporting similar findings in
+other cometary globules. The geometric and age distribution is consistent with
+the RDI model for triggered star formation in CGs by HII region shocks. The
+inferred velocity of the shock front propagating into the globule is ~0.6km/s.
+The large number of X-ray-luminous protostars in the globule suggests either an
+unusually high ratio of Class I/0 vs. Class II/III stars, or a non-standard IMF
+favoring higher mass stars by the triggering process. The Chandra source
+associated with the luminous Class 0/I protostar IRAS 21391+5802 is one of the
+youngest stars ever detected in the X-ray band. We also establish for the first
+time that the X-ray absorption in protostars arises from the local infalling
+envelopes rather than ambient molecular cloud material.
+","[{""version"":""v1"",""created"":""Sat, 1 Jul 2006 17:15:21 GMT""},{""version"":""v2"",""created"":""Thu, 14 Sep 2006 17:57:53 GMT""}]","2008-11-26"
+"astro-ph/0607007","John Irwin","John Irwin, Marina Shmakova, and Jay Anderson","Lensing signals in the Hubble Ultra-Deep Field using all 2nd order shape
+  deformations","9 pages, 16 figures, submitted to ApJ letters","Astrophys.J.671:1182-1195,2007","10.1086/522819","SLAC-PUB-11940","astro-ph",,"  The long exposure times of the HST Ultra-Deep Field plus the use of an
+empirically derived position-dependent PSF, have enabled us to measure a
+cardioid/displacement distortion map coefficient as well as improving upon the
+sextupole map coefficient. We confirmed that curved background galaxies are
+clumped on the same angular scale as found in the HST Deep Field North. The new
+cardioid/displacement map coefficient is strongly correlated to a product of
+the sextupole and quadrupole coefficients. One would expect to see such a
+correlation from fits to background galaxies with quadrupole and sextupole
+moments. Events that depart from this correlation are expected to arise from
+map coefficient changes due to lensing, and several galaxy subsets selected
+using this criteria are indeed clumped.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 04:51:19 GMT""}]","2008-11-26"
+"astro-ph/0607010","Dmitri Wiebe","D. Semenov, D. Wiebe, Th. Henning","Gas-phase CO in protoplanetary disks: a challenge for turbulent mixing","ApJL, accepted","Astrophys.J.647:L57-L60,2006","10.1086/507096",,"astro-ph",,"  This is the first paper in a series where we study the influence of turbulent
+diffusion and advective transport on the chemical evolution of protoplanetary
+disks, using a 2D flared disk model and a 2D mixing gas-grain chemical code
+with surface reactions. A first interesting result concerns the abundance of
+gas-phase CO in the outer regions of protoplanetary disks. In this Letter we
+argue that the gas-phase CO concentration in the disk regions, where the
+temperature is lower than $\sim25$ K, can be significantly enhanced due to the
+combined effect of vertical and radial mixing. This finding has a potential
+implication for the current observational data on the DM~Tau disk chemistry.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 14:10:14 GMT""}]","2009-11-11"
+"cond-mat/0607017","Bogdan Danila","Bogdan Danila, Yong Yu, John A. Marsh, and Kevin E. Bassler","Optimal routing on complex networks","4 pages, 5 figures","Phys Rev E 74, 046106 (2006)","10.1103/PhysRevE.74.046106",,"cond-mat.stat-mech cond-mat.dis-nn cs.NI",,"  We present a novel heuristic algorithm for routing optimization on complex
+networks. Previously proposed routing optimization algorithms aim at avoiding
+or reducing link overload. Our algorithm balances traffic on a network by
+minimizing the maximum node betweenness with as little path lengthening as
+possible, thus being useful in cases when networks are jamming due to queuing
+overload. By using the resulting routing table, a network can sustain
+significantly higher traffic without jamming than in the case of traditional
+shortest path routing.
+","[{""version"":""v1"",""created"":""Sat, 1 Jul 2006 20:19:15 GMT""},{""version"":""v2"",""created"":""Sat, 8 Jul 2006 19:03:08 GMT""}]","2007-07-12"
+"cond-mat/0607018","Federico Rom\'a","P. M. Pasinetti, F. Roma, J. L. Riccardo, A. J. Ramirez-Pastor","Surface phase transitions in one-dimensional channels arranged in a
+  triangular cross-sectional structure: Theory and Monte Carlo simulations","24 pages, 6 figures",,"10.1063/1.2397682",,"cond-mat.str-el cond-mat.dis-nn",,"  Monte Carlo simulations and finite-size scaling analysis have been carried
+out to study the critical behavior in a submonolayer lattice-gas of interacting
+monomers adsorbed on one-dimensional channels arranged in a triangular
+cross-sectional structure. The model mimics a nanoporous environment, where
+each nanotube or unit cell is represented by a one-dimensional array. Two kinds
+of lateral interaction energies have been considered: $1)$ $w_L$, interaction
+energy between nearest-neighbor particles adsorbed along a single channel and
+$2)$ $w_T$, interaction energy between particles adsorbed across
+nearest-neighbor channels. For $w_L/w_T=0$ and $w_T > 0$, successive planes are
+uncorrelated, the system is equivalent to the triangular lattice and the
+well-known $(\sqrt{3} \times \sqrt{3})$ $[(\sqrt{3} \times \sqrt{3})^*]$
+ordered phase is found at low temperatures and a coverage, $\theta$, of 1/3
+$[2/3]$. In the more general case ($w_L/w_T \neq 0$ and $w_T > 0$), a
+competition between interactions along a single channel and a transverse
+coupling between sites in neighboring channels allows to evolve to a
+three-dimensional adsorbed layer. Consequently, the $(\sqrt{3} \times
+\sqrt{3})$ and $(\sqrt{3} \times \sqrt{3})^*$ structures ""propagate"" along the
+channels and new ordered phases appear in the adlayer. The Monte Carlo
+technique was combined with the recently reported Free Energy Minimization
+Criterion Approach (FEMCA), to predict the critical temperatures of the
+order-disorder transformation. The excellent qualitative agreement between
+simulated data and FEMCA results allow us to interpret the physical meaning of
+the mechanisms underlying the observed transitions.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 12:09:07 GMT""}]","2009-11-11"
+"cond-mat/0607019","Nikolai Antonov","N. V. Antonov and A. A. Ignatieva","Critical behaviour of a fluid in a random shear flow: Renormalization
+  group analysis of a simplified model","IOPLaTeX file, 26 pages, 4 EPS figures","J.Phys.A39:13593-13620,2006","10.1088/0305-4470/39/44/001","SPbU-IP-06-02","cond-mat.stat-mech nlin.CD",,"  Critical behaviour of a fluid, subjected to strongly anisotropic turbulent
+mixing, is studied by means of the field theoretic renormalization group. As a
+simplified model, relaxational stochastic dynamics of a non-conserved scalar
+order parameter, coupled to a random velocity field with prescribed statistics,
+is considered. The velocity is taken Gaussian, white in time, with correlation
+function of the form $\propto \delta(t-t') /|{\bf k}_{\bot}|^{d+\xi}$, where
+${\bf k}_{\bot}$ is the component of the wave vector, perpendicular to the
+distinguished direction (``direction of the flow''). It is shown that,
+depending on the relation between the exponent $\xi$ and the space
+dimensionality $d$, the system exhibits various types of large-scale
+self-similar behaviour, associated with different infrared attractive fixed
+points of the renormalization-group equations. Existence of a new,
+non-equilibrium and strongly anisotropic, type of critical behaviour
+(universality class) is established, and the corresponding critical dimensions
+are calculated to the second order of the double expansion in $\xi$ and
+$\epsilon=4-d$ (two-loop approximation). The most realistic values of the model
+parameters (for example, $d=3$ and the Kolmogorov exponent $\xi=4/3$) belong to
+this class. The scaling behaviour appears anisotropic in the sense that the
+critical dimensions related to the directions parallel and perpendicular to the
+flow are essentially different.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 13:16:33 GMT""}]","2008-11-26"
+"cond-mat/0607020","Joachim Ankerhold","Joachim Ankerhold","Detecting charge noise with a Josephson junction: A problem of thermal
+  escape in presence of non-Gaussian fluctuations","4 pages, 1 figure; minor typos corrected, some revisions in the text","Phys. Rev. Lett. 98, 036601 (2007)","10.1103/PhysRevLett.98.036601",,"cond-mat.mes-hall",,"  Motivated by several experimental activities to detect charge noise produced
+by a mesoscopic conductor with a Josephson junction as on-chip detector, the
+switching rate out of its zero-voltage state is studied. This process is
+related to the fundamental problem of thermal escape in presence of
+non-Gaussian fluctuations. In the relevant case of weak higher than second
+order cumulants, an effective Fokker-Planck equation is derived, which is then
+used to obtain an explicit expression for the escape rate. Specific results for
+the rate asymmetry due to the third moment of current noise allow to analyse
+experimental data and to optimize detection circuits.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 14:20:14 GMT""},{""version"":""v2"",""created"":""Tue, 5 Dec 2006 11:13:18 GMT""}]","2009-11-11"
+"cs/0607001","Chinmoy Bhattacharya","Chinmoy Bhattacharya and P.R.Mahapatra","A Novel Application of Lifting Scheme for Multiresolution Correlation of
+  Complex Radar Signals",,,,,"cs.DC cs.CC",,"  The lifting scheme of discrete wavelet transform (DWT) is now quite well
+established as an efficient technique for image compression, and has been
+incorporated into the JPEG2000 standards. However, the potential of the lifting
+scheme has not been exploited in the context of correlationbased processing,
+such as encountered in radar applications. This paper presents a complete and
+consistent framework for the application of DWT for correlation of complex
+signals. In particular, lifting scheme factorization of biorthogonal
+filterbanks is carried out in dual analysis basis spaces for multiresolution
+correlation of complex radar signals in the DWT domain only. A causal
+formulation of lifting for orthogonal filterbank is also developed. The
+resulting parallel algorithms and consequent saving of computational effort are
+briefly dealt with.
+","[{""version"":""v1"",""created"":""Sat, 1 Jul 2006 16:58:49 GMT""}]","2007-05-23"
+"cs/0607002","Igal Sason","I. Sason and I. Goldenberg","Coding for Parallel Channels: Gallager Bounds for Binary Linear Codes
+  with Applications to Repeat-Accumulate Codes and Variations","Submitted to IEEE Trans. on Information Theory, June 2006 (57 pages,
+  9 figures)",,,,"cs.IT math.IT",,"  This paper is focused on the performance analysis of binary linear block
+codes (or ensembles) whose transmission takes place over independent and
+memoryless parallel channels. New upper bounds on the maximum-likelihood (ML)
+decoding error probability are derived. These bounds are applied to various
+ensembles of turbo-like codes, focusing especially on repeat-accumulate codes
+and their recent variations which possess low encoding and decoding complexity
+and exhibit remarkable performance under iterative decoding. The framework of
+the second version of the Duman and Salehi (DS2) bounds is generalized to the
+case of parallel channels, along with the derivation of their optimized tilting
+measures. The connection between the generalized DS2 and the 1961 Gallager
+bounds, addressed by Divsalar and by Sason and Shamai for a single channel, is
+explored in the case of an arbitrary number of independent parallel channels.
+The generalization of the DS2 bound for parallel channels enables to re-derive
+specific bounds which were originally derived by Liu et al. as special cases of
+the Gallager bound. In the asymptotic case where we let the block length tend
+to infinity, the new bounds are used to obtain improved inner bounds on the
+attainable channel regions under ML decoding. The tightness of the new bounds
+for independent parallel channels is exemplified for structured ensembles of
+turbo-like codes. The improved bounds with their optimized tilting measures
+show, irrespectively of the block length of the codes, an improvement over the
+union bound and other previously reported bounds for independent parallel
+channels; this improvement is especially pronounced for moderate to large block
+lengths.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 08:39:55 GMT""}]","2007-07-13"
+"cs/0607003","Igal Sason","M. Twitto, I. Sason and S. Shamai","Tightened Upper Bounds on the ML Decoding Error Probability of Binary
+  Linear Block Codes","Submitted to the IEEE Trans. on Information Theory (as a
+  correspondence), February 2006",,,,"cs.IT math.IT",,"  The performance of maximum-likelihood (ML) decoded binary linear block codes
+is addressed via the derivation of tightened upper bounds on their decoding
+error probability. The upper bounds on the block and bit error probabilities
+are valid for any memoryless, binary-input and output-symmetric communication
+channel, and their effectiveness is exemplified for various ensembles of
+turbo-like codes over the AWGN channel. An expurgation of the distance spectrum
+of binary linear block codes further tightens the resulting upper bounds.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 09:03:06 GMT""}]","2007-07-13"
+"cs/0607004","Igal Sason","M. Twitto and I. Sason","On the Error Exponents of Some Improved Tangential-Sphere Bounds","Submitted to the IEEE Trans. on Information Theory (as a
+  correspondence), March 2006. Revised (August 2006)",,,,"cs.IT math.IT",,"  The performance of maximum-likelihood (ML) decoded binary linear block codes
+over the AWGN channel is addressed via the tangential-sphere bound (TSB) and
+two of its recent improved versions. The paper is focused on the derivation of
+the error exponents of these bounds. Although it was exemplified that some
+recent improvements of the TSB tighten this bound for finite-length codes, it
+is demonstrated in this paper that their error exponents coincide. For an
+arbitrary ensemble of binary linear block codes, the common value of these
+error exponents is explicitly expressed in terms of the asymptotic growth rate
+of the average distance spectrum.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 09:15:39 GMT""},{""version"":""v2"",""created"":""Sat, 2 Sep 2006 21:27:11 GMT""}]","2007-07-13"
+"cs/0607005","Florentin Smarandache","Florentin Smarandache, Jean Dezert","Belief Conditioning Rules (BCRs)","26 pages",,,,"cs.AI",,"  In this paper we propose a new family of Belief Conditioning Rules (BCRs) for
+belief revision. These rules are not directly related with the fusion of
+several sources of evidence but with the revision of a belief assignment
+available at a given time according to the new truth (i.e. conditioning
+constraint) one has about the space of solutions of the problem.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 14:54:54 GMT""},{""version"":""v2"",""created"":""Wed, 29 Nov 2006 19:14:21 GMT""}]","2007-05-23"
+"gr-qc/0607003","Carlos Augusto Romero Filho","J. B. Formiga and C. Romero","On the spectral shift and the time delay of light in a Rindler
+  accelerated frame","12 pages, 3 figures","Int.J.Mod.Phys.D16:699-710,2007","10.1142/S021827180700984X",,"gr-qc",,"  We discuss two effects predicted by the general theory of relativity in the
+context of Rindler accelerated observers: the gravitational spectral shift and
+the time delay of light. We show that these effects also appear in a Rindler
+frame in the absence of gravitational field, in accordance with the Einstein's
+equivalence principle.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 14:29:46 GMT""}]","2008-11-26"
+"hep-ex/0607001","Jos\'e Ocariz","J. Ocariz (for the BABAR Collaboration and the BELLE Collaboration)","Measurements of the CKM angle $\beta/\phi_1$ at the B Factories","Contributed to the Proceedings of the XLI Rencontres de Moriond -
+  Electroweak Interactions and Unified Theory, La Thuile Italy, March 11-18,
+  2006. 6 pages",,"10.1016/j.nuclphysbps.2006.09.117",,"hep-ex",,"  We report measurements of time-dependent CP asymmetries related to the CKM
+angle $\beta/\phi_1$, using decays of neutral B mesons to charmonium, open
+charm and in $b\to s$ loop processes. A preliminary measurement of
+time-dependent CP asymmetries in $B^0\to \rho^0(770) K^0_S$ decays from the
+BaBar experiment is given here.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 15:46:37 GMT""}]","2019-08-14"
+"hep-ph/0607008","Enrique Fernandez-Martinez","E. Couce","Measuring Leptonic CP Violation with a Water Cerenkov","Talk given at 41st Rencontres de Moriond on Electroweak Interactions
+  and Unified Theories, La Thuile, Aosta Valley, Italy, 11-18 Mar 2006",,,,"hep-ph",,"  In this talk, we present the physics case for a megaton Water Cerenkov
+detector in addressing some of the still pending questions in neutrino
+oscillations physics, particularly the measurement of leptonic CP violation. We
+compare different future beams that could profit from a water detector and
+analyse, for the case $\theta_{13} \approx 3^\circ$ (the limit that can be
+reached by under-construction experiments), the signal-to-background rate for a
+$\beta$-beam setup with the radioactive ions accelerated to $\gamma = 350$.
+","[{""version"":""v1"",""created"":""Sat, 1 Jul 2006 21:33:58 GMT""}]","2007-05-23"
+"hep-ph/0607009","Xiang Liu","Xue-Qian Li, Xiang Liu and Yu-Ming Wang","Calculation of the Branching Ratio of $B^{-}\to h_{c}+K^{-}$ in PQCD","12 pages, 1 figure, version to appear in Phys. Rev. D","Phys.Rev. D74 (2006) 114029","10.1103/PhysRevD.74.114029",,"hep-ph",,"  The branching ratio of $B^-\to h_c+K^-$ is re-evaluated in the PQCD approach.
+In this theoretical framework all the phenomenological parameters in the
+wavefunctions and Sudakov factor are priori fixed by fitting other experimental
+data, and in the whole numerical computations we do not introduce any new
+parameter. Our results are consistent with the upper bounds set by the Babar
+and Belle measurements.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 01:46:02 GMT""},{""version"":""v2"",""created"":""Wed, 12 Jul 2006 00:45:37 GMT""},{""version"":""v3"",""created"":""Fri, 14 Jul 2006 10:37:24 GMT""},{""version"":""v4"",""created"":""Thu, 14 Dec 2006 00:40:15 GMT""}]","2013-05-29"
+"hep-ph/0607010","Fizuli A. Mamedov","Fizuli Mamedov","Fermion masses and the symmetry breaking; Strong interactions spin
+  quantum number as the unifier of the strong and electroweak interactions","5 pages",,,,"hep-ph",,"  The origin of the fermion generations is discussed. A strong interactions
+spin $I_{S}$ is introduced which unifies the quarks and leptons as two
+multiplets of this spin. The electroweak vector bosons and gluons emerge as the
+fused states of these fermion multiplets.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 03:25:14 GMT""},{""version"":""v2"",""created"":""Wed, 5 Jul 2006 08:31:28 GMT""}]","2007-05-23"
+"hep-ph/0607011","Pierpaolo Mastrolia","Pierpaolo Mastrolia","Unitarity Cuts: NLO Six-Gluon Amplitudes in QCD","talk given at Loops & Legs 2006, April 23-28, Eisenach (Germany)",,"10.1016/j.nuclphysbps.2006.09.046",,"hep-ph",,"  We report on a technique for evaluating finite unitarity cut for one-loop
+amplitudes in gauge theories, and discuss its application to the
+cut-constructible part of six-gluon amplitude in QCD.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 10:56:10 GMT""}]","2009-11-11"
+"hep-ph/0607012","Carlos E. Yaguna","Graciela Gelmini and Carlos E. Yaguna (UCLA)","Constraints on Minimal SUSY models with warm dark matter neutralinos","5 pages, 2 figures","Phys.Lett. B643 (2006) 241-245","10.1016/j.physletb.2006.10.063",,"hep-ph",,"  If the energy density of the Universe before nucleosynthesis is dominated by
+a scalar field $\phi$ that decays and reheats the plasma to a low reheating
+temperature $T_{RH}$, neutralinos may be warm dark matter particles. We study
+this possibility and derive the conditions on the production mechanism and on
+the supersymmetric spectrum for which it is viable. Large values of the $\mu$
+parameter and of the slepton masses are characteristic features of these
+models. We compute the expected direct detection cross sections and point out
+that Split-SUSY provides a natural framework for neutralino warm dark matter
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 15:42:31 GMT""}]","2009-11-11"
+"hep-th/0607005","Jeong-Hyuck Park","Nakwoo Kim and Jeong-Hyuck Park","Massive super Yang-Mills quantum mechanics: classification and the
+  relation to supermembrane","1+42 pages; References added, to appear in NPB","Nucl.Phys.B759:249-282,2006","10.1016/j.nuclphysb.2006.10.005","MPP-2006-68","hep-th",,"  We classify the supersymmetric mass deformations of all the super Yang-Mills
+quantum mechanics, which are obtained by dimensional reductions of minimal
+super Yang-Mills in spacetime dimensions: ten, six, four, three and two. The
+resulting actions can be viewed as the matrix descriptions of supermembranes in
+nontrivial backgrounds of one higher dimensional supergravity theories. We also
+discuss the utmost generalization of the light-cone formulation of the
+Nambu-Goto action for a p-brane, including time dependent backgrounds.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 11:10:14 GMT""},{""version"":""v2"",""created"":""Fri, 6 Oct 2006 09:35:29 GMT""}]","2008-11-26"
+"hep-th/0607006","Nikolaos Mavromatos","Nick E. Mavromatos (King's Coll. London)","The issue of Dark Energy in String Theory","Based on Invited lecture at the ``Third Aegean Summer School on: The
+  Invisible Universe: Dark matter and Dark energy'', Karfas, Chios Island
+  (Greece) September 26-October 1 2005","Lect.NotesPhys.720:333-374,2007","10.1007/978-3-540-71013-4_12",,"hep-th astro-ph gr-qc",,"  Recent astrophysical observations, pertaining to either high-redshift
+supernovae or cosmic microwave background temperature fluctuations, as those
+measured recently by the WMAP satellite, provide us with data of unprecedented
+accuracy, pointing towards two (related) facts: (i) our Universe is accelerated
+at present, and (ii) more than 70 % of its energy content consists of an
+unknown substance, termed dark energy, which is believed responsible for its
+current acceleration. Both of these facts are a challenge to String theory. In
+this review I outline briefly the challenges, the problems and possible avenues
+for research towards a resolution of the Dark Energy issue in string theory.
+","[{""version"":""v1"",""created"":""Sat, 1 Jul 2006 18:26:41 GMT""}]","2008-11-26"
+"hep-th/0607008","Joshua Davis","Joshua L. Davis, Finn Larsen, Ross O'Connell and Diana Vaman","Integrable Deformations of $\hat{c}=1$ Strings in Flux Backgrounds","39 pages, 4 figures","JHEP0612:008,2006","10.1088/1126-6708/2006/12/008",,"hep-th nlin.SI",,"  We study d=2 0A string theory perturbed by tachyon momentum modes in
+backgrounds with non-trivial tachyon condensate and Ramond-Ramond (RR) flux. In
+the matrix model description, we uncover a complexified Toda lattice hierarchy
+constrained by a pair of novel holomorphic string equations. We solve these
+constraints in the classical limit for general RR flux and tachyon condensate.
+Due to the non-holomorphic nature of the tachyon perturbations, the
+transcendental equations which we derive for the string susceptibility are
+manifestly non-holomorphic. We explore the phase structure and critical
+behavior of the theory.
+","[{""version"":""v1"",""created"":""Sat, 1 Jul 2006 21:37:40 GMT""},{""version"":""v2"",""created"":""Fri, 6 Oct 2006 15:51:33 GMT""}]","2009-11-11"
+"hep-th/0607010","Xi Yin","Davide Gaiotto, Andrew Strominger, Xi Yin","The M5-Brane Elliptic Genus: Modularity and BPS States","21 pages","JHEP 0708:070,2007","10.1088/1126-6708/2007/08/070",,"hep-th",,"  The modified elliptic genus for an M5-brane wrapped on a four-cycle of a
+Calabi-Yau threefold encodes the degeneracies of an infinite set of BPS states
+in four dimensions. By holomorphy and modular invariance, it can be determined
+completely from the knowledge of a finite set of such BPS states. We show the
+feasibility of such a computation and determine the exact modified elliptic
+genus for an M5-brane wrapping a hyperplane section of the quintic threefold.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 06:40:31 GMT""}]","2009-09-17"
+"hep-th/0607011","Kourosh Nozari","Kourosh Nozari and Behnaz Fazlpour","Can Quantum Gravitational Effects Manifest themselves at Large
+  Distances?","7 Pages, No Figures","ChaosSolitonsFractals32:1-4,2007","10.1016/j.chaos.2006.05.092",,"hep-th",,"  Consider a proposed model of the universe with $\hbar$ much greater than its
+well-known value of $10^{-34} Js$. In this model universe, very large objects
+can show quantum behaviors. In a scenario with large extra dimensions, $\hbar$
+can attains very large values depending on the dimensionality of spacetime. In
+this letter, we show that although conventional thinking indicates that quantum
+gravitational effects should manifest themselves only at very small scales, in
+actuality quantum gravitational effects can manifest themselves at large scales
+too. We use the generalized uncertainty principle with a non-zero minimal
+uncertainty in momentum as our primary input to construct a mathematical
+framework for our proposal.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 13:51:14 GMT""}]","2015-06-26"
+"math-ph/0607002","Irina Yehorchenko Dr.","Irina Yehorchenko","Differential Invariants for Infinite-Dimensional Algebras","Talk at the conference ""Symmetry and Perturbation Theory 2004"", Cala
+  Gonone, Sardinia, Italy, May 30 - June 6, 2004","Yehorchenko I.A. Differential invariants for infinite-dimensional
+  algebras, in Proceedings of the International Conference on SPT 2004, Cala
+  Gonone, Sardinia, Italy, May 30 - June 6, 2004; Editors G. Gaeta, B. Prinari,
+  S. Rauch-Wojciechowski and S. Terracini, World Scientific, 2005, p. 308-312",,,"math-ph math.MP",,"  We present an approach for construction of functional bases of differential
+invariants for some infinite-dimensional algebras with coefficients of
+generating operators depending on arbitrary functions. An example for the
+infinite-dimensional Poincare-type algebra is given.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 09:09:30 GMT""}]","2007-05-23"
+"math/0607025","Arvid Perego","Arvid Perego","A Gabriel Theorem for Coherent Twisted Sheaves","21 pages, Added references","Math. Z. 262 (2009), no. 3, 571--583",,,"math.AG",,"  We give a generalization of Gabriel's Theorem on coherent sheaves to the case
+of coherent twisted sheaves on a smooth variety X over a field k. We show that
+the category Coh(X,\alpha) determines the scheme structure of X for \alpha in
+the Brauer group of X, and that any equivalence between Coh(X,\alpha) and
+Coh(Y,\beta) induces an isomorphism between X and Y. In conclusion we prove the
+saturatedness of D^b(X,\alpha).
+","[{""version"":""v1"",""created"":""Sat, 1 Jul 2006 17:08:24 GMT""},{""version"":""v2"",""created"":""Tue, 11 Jul 2006 11:06:18 GMT""}]","2014-03-04"
+"math/0607026","Tryphon Georgiou","Tryphon T. Georgiou","Distances between power spectral densities","16 pages, 4 figures; revision (July 29, 2006) includes two added
+  sections","IEEE Transactions on Signal Processing, vol. 55(8), pages
+  3995-4003, August 2007.",,,"math.OC",,"  We present several natural notions of distance between spectral density
+functions of (discrete-time) random processes. They are motivated by certain
+filtering problems. First we quantify the degradation of performance of a
+predictor which is designed for a particular spectral density function and then
+it is used to predict the values of a random process having a different
+spectral density. The logarithm of the ratio between the variance of the error,
+over the corresponding minimal (optimal) variance, produces a measure of
+distance between the two power spectra with several desirable properties.
+Analogous quantities based on smoothing problems produce alternative distances
+and suggest a class of measures based on fractions of generalized means of
+ratios of power spectral densities. These distance measures endow the manifold
+of spectral density functions with a (pseudo) Riemannian metric. We pursue one
+of the possible options for a distance measure, characterize the relevant
+geodesics, and compute corresponding distances.
+","[{""version"":""v1"",""created"":""Sat, 1 Jul 2006 23:55:22 GMT""},{""version"":""v2"",""created"":""Sat, 29 Jul 2006 14:58:47 GMT""}]","2008-07-19"
+"math/0607027","Jean Dolbeault","Jean Dolbeault (CEREMADE), Maria J. Esteban (CEREMADE), Michael Loss","Relativistic hydrogenic atoms in strong magnetic fields",,,"10.1007/s00023-006-0321-5",,"math.AP",,"  In the Dirac operator framework we characterize and estimate the ground state
+energy of relativistic hydrogenic atoms in a constant magnetic field and
+describe the asymptotic regime corresponding to a large field strength using
+relativistic Landau levels. We also define and estimate a critical magnetic
+field beyond which stability is lost.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 07:37:47 GMT""}]","2009-11-11"
+"nucl-th/0607001","Igor Obukhovsky Timofeevitch","V.I. Kukulin, I.T. Obukhovsky, P. Grabmayr, and Amand Faessler","Isoscalar short-range current in the deuteron induced by an intermediate
+  dibaryon","LaTex, 22 pages with 8 figures","Phys.Rev.C74:064005,2006","10.1103/PhysRevC.74.064005",,"nucl-th",,"  A new model for short-range isoscalar currents in the deuteron and in the NN
+system is developed; it is based on the generation of an intermediate dibaryon
+which is the basic ingredient for the medium- and short-range NN interaction
+which was proposed recently by the present authors.This new current model can
+very well describe the experimental data for the three basic deuteron
+observables of isoscalar magnetic type, viz. the magnetic moment, the circular
+polarization of the photon in the $np\to d\gamma$ process at thermal neutron
+energies and the structure function B up to Q$^2$=60 fm$^{-2}$.
+","[{""version"":""v1"",""created"":""Sat, 1 Jul 2006 21:23:31 GMT""},{""version"":""v2"",""created"":""Tue, 11 Jul 2006 12:57:02 GMT""}]","2008-11-26"
+"physics/0607004","Hua-Shu Dou","Hua-Shu Dou","Physics of Flow Instability and Turbulent Transition in Shear Flows","38 pages, 12 figures","International Journal of Physical Science, 6(6), March 2011,
+  1411-1425",,,"physics.flu-dyn physics.class-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  In this paper, the physics of flow instability and turbulent transition in
+shear flows is studied by analyzing the energy variation of fluid particles
+under the interaction of base flow with a disturbance. For the first time, a
+model derived strictly from physics is proposed to show that the flow
+instability under finite amplitude disturbance leads to turbulent transition.
+The proposed model is named as ""energy gradient method."" It is demonstrated
+that it is the transverse energy gradient that leads to the disturbance
+amplification while the disturbance is damped by the energy loss due to
+viscosity along the streamline. It is also shown that the threshold of
+disturbance amplitude obtained is scaled with the Reynolds number by an
+exponent of -1, which exactly explains the recent modern experimental results
+by Hof et al. for pipe flow. The mechanism for velocity inflection and hairpin
+vortex formation are explained with reference to analytical results. Following
+from this analysis, it can be demonstrated that the critical value of the so
+called energy gradient parameter Kmax is constant for turbulent transition in
+wall bounded parallel flows, and this is confirmed by experiments and is about
+370-389. The location of instability initiation in the flow field accords well
+with the experiments for both pipe Poiseuille flow (r/R=0.58) and plane
+Poiseuille flow (y/h=0.58). It is also inferred from the proposed method that
+the transverse energy gradient can serve as the power for the self-sustaining
+process of wall bounded turbulence. Finally, the relation of ""energy gradient
+method"" to the classical ""energy method"" based on Rayleigh-Orr equation is
+discussed.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 14:44:21 GMT""},{""version"":""v2"",""created"":""Wed, 11 Oct 2006 14:03:06 GMT""},{""version"":""v3"",""created"":""Mon, 5 Feb 2007 09:00:33 GMT""},{""version"":""v4"",""created"":""Tue, 11 Nov 2008 06:29:00 GMT""},{""version"":""v5"",""created"":""Tue, 19 Jun 2018 02:34:16 GMT""}]","2018-06-20"
+"quant-ph/0607005","Ulrich Mohrhoff","Ulrich Mohrhoff","Quantum mechanics explained","29 pages, 5 figures. v2: revised in response to referee comments","International Journal of Quantum Information Vol. 7, No. 1 (2009)
+  435\^a?""458","10.1142/S0219749909004487","saice060701","quant-ph",,"  The physical motivation for the mathematical formalism of quantum mechanics
+is made clear and compelling by starting from an obvious fact - essentially,
+the stability of matter - and inquiring into its preconditions: what does it
+take to make this fact possible?
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 03:04:37 GMT""},{""version"":""v2"",""created"":""Fri, 14 Jul 2006 07:02:02 GMT""}]","2009-02-18"
+"quant-ph/0607006","Peter Hommelhoff","Peter Hommelhoff, Catherine Kealhofer, and Mark A. Kasevich","A spatially and temporally localized sub-laser-cycle electron source","4 pages, 5 figures","Phys. Rev. Lett. 97, 247402 (2006)","10.1103/PhysRevLett.97.247402",,"quant-ph",,"  We present an experimental and numerical study of electron emission from a
+sharp tungsten tip triggered by sub-8 femtosecond low power laser pulses. This
+process is non-linear in the laser electric field, and the non-linearity can be
+tuned via the DC voltage applied to the tip. Numerical simulations of this
+system show that electron emission takes place within less than one optical
+period of the exciting laser pulse, so that an 8 fsec 800 nm laser pulse is
+capable of producing a single electron pulse of less than 1 fsec duration.
+Furthermore, we find that the carrier-envelope phase dependence of the emission
+process is smaller than 0.1% for an 8 fsec pulse but is steeply increasing with
+decreasing laser pulse duration.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 10:07:20 GMT""}]","2007-05-23"
+"quant-ph/0607007","Tata Gopinath","T. Gopinath and Anil Kumar","Geometric quantum computation using fictitious spin- 1/2 subspaces of
+  strongly dipolar coupled nuclear spins","37 pages, 17 figures","Phys. Rev. A 73, 022326 (2006)","10.1103/PhysRevA.73.022326",,"quant-ph",,"  Geometric phases have been used in NMR, to implement controlled phase shift
+gates for quantum information processing, only in weakly coupled systems in
+which the individual spins can be identified as qubits. In this work, we
+implement controlled phase shift gates in strongly coupled systems, by using
+non-adiabatic geometric phases, obtained by evolving the magnetization of
+fictitious spin-1/2 subspaces, over a closed loop on the Bloch sphere. The
+dynamical phase accumulated during the evolution of the subspaces, is refocused
+by a spin echo pulse sequence and by setting the delay of transition selective
+pulses such that the evolution under the homonuclear coupling makes a complete
+$2\pi$ rotation. A detailed theoretical explanation of non-adiabatic geometric
+phases in NMR is given, by using single transition operators. Controlled phase
+shift gates, two qubit Deutsch-Jozsa algorithm and parity algorithm in a
+qubit-qutrit system have been implemented in various strongly dipolar coupled
+systems obtained by orienting the molecules in liquid crystal media.
+","[{""version"":""v1"",""created"":""Sun, 2 Jul 2006 11:02:53 GMT""}]","2009-11-13"

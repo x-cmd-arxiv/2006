@@ -1,0 +1,488 @@
+"astro-ph/0611775","Danny Marfatia","V. Barger, Y. Gao, D. Marfatia","Accelerating cosmologies tested by distance measures","15 pages, 7 figures, 1 table. New ESSENCE SN data included","Phys.Lett.B648:127-132,2007","10.1016/j.physletb.2007.03.021",,"astro-ph gr-qc hep-ph hep-th",,"  We test if the latest Gold set of 182 SNIa or the combined ""Platinum"" set of
+192 SNIa from the ESSENCE and Gold sets, in conjunction with the CMB shift
+parameter show a preference between the LambdaCDM model, three wCDM models, and
+the DGP model of modified gravity as an explanation for the current
+accelerating phase of the universe's expansion. We consider flat wCDM models
+with an equation of state w(a) that is (i) constant with scale factor $a$, (ii)
+varies as w(a)=w_0+w_a(1-a) for redshifts probed by supernovae but is fixed at
+-1 at earlier epochs and (iii) varies as w_0+w_a(1-a) since recombination. We
+find that all five models explain the data with comparable success.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 20:26:32 GMT""},{""version"":""v2"",""created"":""Wed, 6 Dec 2006 00:24:00 GMT""},{""version"":""v3"",""created"":""Tue, 23 Jan 2007 21:45:01 GMT""}]","2008-11-26"
+"astro-ph/0611781","Leonid Petrov","L. Petrov (Mizusawa NAOJ)","The empirical Earth rotation model from VLBI observations","15 pages, 10 figures, Published in Astronomy and Astrophysics. For
+  numerical tables see http://vlbi.gsfc.nasa.gov/erm","Astronomy and Astrophysics, volume 467, pages 359-369, 2007","10.1051/0004-6361:20065091",,"astro-ph",,"  AIMS: An alternative to the traditional method for modeling kinematics of the
+Earth's rotation is proposed. The purpose of developing the new approach is to
+provide a self-consistent and simple description of the Earth's rotation in a
+way that can be estimated directly from observations without using intermediate
+quantities.
+  METHODS: Instead of estimating the time series of pole coordinates, the
+UT1--TAI angles, their rates, and the daily offsets of nutation, it is proposed
+to estimate coefficients of the expansion of a small perturbational rotation
+vector into basis functions. The resulting transformation from the terrestrial
+coordinate system to the celestial coordinate system is formulated as a product
+of an a priori matrix of a finite rotation and an empirical vector of a
+residual perturbational rotation. In the framework of this approach, the
+specific choice of the a priori matrix is irrelevant, provided the angles of
+the residual rotation are small enough to neglect their squares. The
+coefficients of the expansion into the B-spline and Fourier bases, together
+with estimates of other nuisance parameters, are evaluated directly from
+observations of time delay or time range in a single least square solution.
+  RESULTS: This approach was successfully implemented in a computer program for
+processing VLBI observations. The dataset from 1984 through 2006 was analyzed.
+The new procedure adequately represents the Earth's rotation, including slowly
+varying changes in UT1--TAI and polar motion, the forced nutations, the free
+core nutation, and the high frequency variations of polar motion and UT1.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 01:20:39 GMT""},{""version"":""v2"",""created"":""Sat, 30 Jun 2007 01:49:59 GMT""}]","2009-11-11"
+"astro-ph/0611782","Leonid Petrov","L. Petrov (NVI, Inc./NASA GSFC)","Empirical Earth rotation model: a consistent way to evaluate Earth
+  orientation parameters","To be published in the Proceedings of the Geodetic Reference Frame
+  symposium held in Muenchen in October 2006. 6 pages, 2 tables","in Geodetic Reference Frames, ed. by H. Drewes, Springer-Verlag,
+  2009, p. 233","10.1007/978-3-642-00860-3_36",,"astro-ph",,"  It is customary to perform analysis of the Earth's rotation in two steps:
+first, to present results of estimation of the Earth orientation parameters in
+the form of time series based on a simplified model of variations of the
+Earth's rotation for a short period of time, and then to process this time
+series of adjustments by applying smoothing, re-sampling and other numerical
+algorithms. Although this approach saves computational time, it suffers from
+self-inconsistency: total Earth orientation parameters depend on a subjective
+choice of the apriori Earth orientation model, cross-correlations between
+points of time series are lost, and results of an operational analysis per se
+have a limited use for end users. An alternative approach of direct estimation
+of the coefficients of expansion of Euler angle perturbations into basis
+functions is developed. These coefficients describe the Earth's rotation over
+entire period of observations and are evaluated simultaneously with station
+positions, source coordinates and other parameters in a single LSQ solution. In
+the framework of this approach considerably larger errors in apriori EOP model
+are tolerated. This approach gives a significant conceptual simplification of
+representation of the Earth's rotation.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 03:03:37 GMT""}]","2010-12-14"
+"astro-ph/0611783","Xiaojun Bi","Xiao-Jun Bi, Juan Zhang, Qiang Yuan, Jian-Li Zhang and HongSheng Zhao","The diffuse Galactic gamma-rays from dark matter annihilation","6 pages, 4 figures; the published version","Phys.Lett.B668:87-92,2008","10.1016/j.physletb.2008.08.041",,"astro-ph hep-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  The diffuse Galactic $\gamma$-rays from EGRET observation shows excesses
+above 1 GeV in comparison with the expectations from conventional Galactic
+cosmic ray (CR) propagation model. In the work we try to solve the ""GeV excess""
+problem by dark matter (DM) annihilation in the frame of supersymmetry (SUSY).
+Compared with previous works, there are three aspects improved in this work:
+first, the direction-independent ""boost factor"" for diffuse $\gamma$-rays from
+dark matter annihilation (DMA) is naturally reproduced by taking the DM
+substructures into account; second, there is no need for renormalization of the
+diffuse $\gamma$-ray background produced by CRs; last but not the least, in
+this work our new propagation model can give consistent results of both diffuse
+$\gamma$-rays and antiprotons, by directly adding the signals from DMA to the
+diffuse $\gamma$-ray background. This is a self-consistent model among several
+possible scenarios at present, and can be tested or optimized by the
+forthcoming experiments such as GLAST, PAMELA and AMS02.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 04:04:08 GMT""},{""version"":""v2"",""created"":""Wed, 19 Sep 2007 01:22:26 GMT""},{""version"":""v3"",""created"":""Wed, 1 Oct 2008 03:05:17 GMT""}]","2008-11-26"
+"astro-ph/0611784","Kazuhide Ichikawa","Kazuhide Ichikawa, Masahiro Kawasaki, Fuminobu Takahashi","Constraint on the Effective Number of Neutrino Species from the WMAP and
+  SDSS LRG Power Spectra","16 pages, 3 figure. (v2) More explanation and discussion on our
+  analysis. A section and figures are added","JCAP 0705:007,2007","10.1088/1475-7516/2007/05/007","DESY 06-212","astro-ph hep-ph",,"  We derive constraint on the effective number of neutrino species N_nu from
+the cosmic microwave background power spectrum of the WMAP and galaxy
+clustering power spectrum of the SDSS luminous red galaxies (LRGs). Using these
+two latest data sets of CMB and galaxy clustering alone, we obtain the limit
+0.9 < N_nu < 8.2 (95% C.L.) for the power-law LambdaCDM flat universe, with no
+external prior. The lower limit corresponds to the lower bound on the reheating
+temperature of the universe T_R > 2 MeV.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 09:47:38 GMT""},{""version"":""v2"",""created"":""Fri, 6 Apr 2007 09:38:52 GMT""}]","2009-06-12"
+"cond-mat/0611646","Marco Masi","Marco Masi","On the extended Kolmogorov-Nagumo information-entropy theory, the q ->
+  1/q duality and its possible implications for a non-extensive two dimensional
+  Ising model","13 pages, accepted for publication in Physica A","Physica A, 377, 1, 67-78 (2007)","10.1016/j.physa.2006.11.019",,"cond-mat.stat-mech cond-mat.other",,"  The aim of this paper is to investigate the q -> 1/q duality in an
+information-entropy theory of all q-generalized entropy functionals (Tsallis,
+Renyi and Sharma-Mittal measures) in the light of a representation based on
+generalized exponential and logarithm functions subjected to Kolmogorov's and
+Nagumo's averaging. We show that it is precisely in this representation that
+the form invariance of all entropy functionals is maintained under the action
+of this duality. The generalized partition function also results to be a scalar
+invariant under the q -> 1/q transformation which can be interpreted as a
+non-extensive two dimensional Ising model duality between systems governed by
+two different power law long-range interactions and temperatures. This does not
+hold only for Tsallis statistics, but is a characteristic feature of all
+stationary distributions described by q-exponential Boltzmann factors.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 20:29:49 GMT""},{""version"":""v2"",""created"":""Sat, 9 Dec 2006 17:09:15 GMT""}]","2007-05-23"
+"cond-mat/0611647","M. M. Glazov","M.M. Glazov, E.L. Ivchenko, L. Besombes, Y. Leger, L. Maingault and H.
+  Mariette","Fine structure of exciton excited levels in a quantum dot with a
+  magnetic ion","6 pages, 6 figures",,"10.1103/PhysRevB.75.205313",,"cond-mat.mes-hall cond-mat.mtrl-sci cond-mat.other",,"  The fine structure of excited excitonic states in a quantum dot with an
+embedded magnetic ion is studied theoretically and experimentally. The
+developed theory takes into account the Coulomb interaction between charged
+carriers, the anisotropic long-range electron-hole exchange interaction in the
+zero-dimensional exciton, and the exchange interaction of the electron and the
+hole with the $d$-electrons of a Mn ion inserted inside the dot. Depending on
+the relation between the quantum dot anisotropy and the exciton-Mn coupling the
+photoluminescence excitation spectrum has a qualitatively different behavior.
+It provides a deep insight into the spin structure of the excited excitonic
+states.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 16:55:54 GMT""}]","2009-11-11"
+"cond-mat/0611648","Kostya Trachenko","K Trachenko","Slow dynamics and stress relaxation in a liquid as an elastic medium","changed content","Physical Review B 75, 212201 (2007)","10.1103/PhysRevB.75.212201",,"cond-mat.dis-nn cond-mat.mtrl-sci",,"  We propose a new framework to discuss the transition from exponential
+relaxation in a liquid to the regime of slow dynamics. For the purposes of
+stress relaxation, we show that a liquid can be treated as an elastic medium.
+We discuss that, on lowering the temperature, the feed-forward interaction
+mechanism between local relaxation events becomes operative, and results in
+slow relaxation.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 18:36:00 GMT""},{""version"":""v2"",""created"":""Sat, 28 Apr 2007 07:26:13 GMT""}]","2009-11-11"
+"cond-mat/0611649","Prof. Dr. M. W. Wu","M. W. Wu, M. Q. Weng, and J. L. Cheng","Spin dynamics in semiconductor nanostructures","4 pages; An invited talk to be presented at nanomeeting-2007
+  (http://www.nanomeeting.org/). To be published in Physics, Chemistry and
+  Application on Nanostructures, 2007 (World Scientific, Singapore, 2007)","""Physics, Chemistry and Application of Nanostructures: Reviews and
+  Short Notes to Nanomeeting 2007"", eds. V. E. Borisenko, V. S. Gurin, and S.
+  V. Gaponenko (World Scientific, Singapore, 2007), pp 14",,,"cond-mat.mtrl-sci",,"  We review our theoretical investigation on the spin relaxation/dephasing in
+spin precession and spin diffusion/transport in semiconductor nanostructures
+based on the kinetic spin Bloch equation approach.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 03:15:16 GMT""}]","2007-06-13"
+"cond-mat/0611651","Qiang Li","Qiang Li","Critical cooling rate for the glass formation of ferromagnetic
+  Fe40Ni40P14B6 alloy","23 pages, 3 figures, 1 table",,,,"cond-mat.mtrl-sci",,"  Bulk ferromagnetic amorphous Fe-Ni-P-B alloys in rod shape were formed by a
+rapid solidification technique. The largest amorphous specimen prepared had a
+diameter of ~2.5 mm and the corresponding cooling rate for the glass formation
+of this alloy system in our experiment can be estimate to be around 492.4 K/s
+by the method of finite-difference numerical calculation. This value is on the
+same order of magnitude as the critical cooling rate Rc of Fe40Ni40P14B6 alloy
+estimated by the method of constructing the continuous-cooling-transformation
+(CCT) curve. It is indicated that the heterophase impurities have been
+eliminated well in our experiment.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 10:11:07 GMT""},{""version"":""v2"",""created"":""Wed, 29 Nov 2006 15:34:31 GMT""}]","2007-05-23"
+"cond-mat/0611653","Francesco Sorrentino Ing","F. Sorrentino, M. di Bernardo, G. Huerta Cuellar, S. Boccaletti","Synchronization in weighed scale-free networks with degree-degree
+  correlation","11 pages, 4 figures","Physica D, Volume 224, Issues 1-2, December 2006, Pages 123-129","10.1016/j.physd.2006.09.030",,"cond-mat.dis-nn",,"  We study synchronization phenomena in scale-free networks of asymetrically
+coupled dynamical systems featuring degree-degree correlation in the connection
+wiring. We show that when the interaction is dominant from the high-degree to
+the low-degree or from the low-degree to the high-degree nodes, synchronization
+is enhanced for assortative or disassortative degree-degree correlations
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 15:12:30 GMT""}]","2009-11-11"
+"cond-mat/0611654","Massimo Ostilli","Massimo Ostilli, Farrukh Mukhamedov, Jos\'e F. F. Mendes","Phase diagram of an Ising model with competitive interactions on a
+  Husimi tree and its disordered counterpart","19 pages, 11 figures; content changed","Physica A: Vol 387/12, 2777 (2008)","10.1016/j.physa.2008.01.071",,"cond-mat.dis-nn cond-mat.stat-mech",,"  We consider an Ising competitive model defined over a triangular Husimi tree
+where loops, responsible for an explicit frustration, are even allowed. After a
+critical analysis of the phase diagram, in which a ``gas of non interacting
+dimers (or spin liquid) - ferro or antiferromagnetic ordered state'' transition
+is recognized in the frustrated regions, we introduce the disorder for studying
+the spin glass version of the model: the triangular +/- J model. We find out
+that, for any finite value of the averaged couplings, the model exhibits always
+a phase transition, even in the frustrated regions, where the transition turns
+out to be a glassy transition. The analysis of the random model is done by
+applying a recently proposed method which allows to derive the upper phase
+boundary of a random model through a mapping with a corresponding non random
+one.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 15:13:50 GMT""},{""version"":""v2"",""created"":""Fri, 1 Dec 2006 17:19:12 GMT""},{""version"":""v3"",""created"":""Thu, 2 Aug 2007 16:53:54 GMT""}]","2009-09-29"
+"cs/0611128","Hasan Guclu","Hasan Guclu and Murat Yuksel","Scale-Free Overlay Topologies with Hard Cutoffs for Unstructured
+  Peer-to-Peer Networks","19 pages, 12 figures, submitted to ICDCS 2007 (International
+  Conference on Distributed Computing Systems 2007), one minor correction and
+  formatting changes",,,,"cs.NI cs.DC",,"  In unstructured peer-to-peer (P2P) networks, the overlay topology (or
+connectivity graph) among peers is a crucial component in addition to the
+peer/data organization and search. Topological characteristics have profound
+impact on the efficiency of search on such unstructured P2P networks as well as
+other networks. It has been well-known that search on small-world topologies of
+N nodes can be as efficient as O(ln N), while scale-free (power-law) topologies
+offer even better search efficiencies like as good as O(lnln N) for a range of
+degree distribution exponents. However, generation and maintenance of such
+scale-free topologies are hard to realize in a distributed and potentially
+uncooperative environments as in the P2P networks. A key limitation of
+scale-free topologies is the high load (i.e. high degree) on very few number of
+hub nodes. In a typical unstructured P2P network, peers are not willing to
+maintain high degrees/loads as they may not want to store large number of
+entries for construction of the overlay topology. So, to achieve fairness and
+practicality among all peers, hard cutoffs on the number of entries are imposed
+by the individual peers, which limits scale-freeness of the overall topology.
+Thus, efficiency of the flooding search reduces as the size of the hard cutoff
+does. We investigate construction of scale-free topologies with hard cutoffs
+(i.e. there are not any major hubs) and effect of these hard cutoffs on the
+search efficiency. Interestingly, we observe that the efficiency of normalized
+flooding and random walk search algorithms increases as the hard cutoff
+decreases.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 21:49:55 GMT""},{""version"":""v2"",""created"":""Tue, 5 Dec 2006 02:44:00 GMT""},{""version"":""v3"",""created"":""Wed, 6 Dec 2006 18:21:43 GMT""}]","2007-05-23"
+"cs/0611129","Neri Merhav","Neri Merhav","Shannon's secrecy system with informed receivers and its application to
+  systematic coding for wiretapped channels",,,,,"cs.IT math.IT",,"  Shannon's secrecy system is studied in a setting, where both the legitimate
+decoder and the wiretapper have access to side information sequences correlated
+to the source, but the wiretapper receives both the coded information and the
+side information via channels that are more noisy than the respective channels
+of the legitmate decoder, which in turn, also shares a secret key with the
+encoder. A single--letter characterization is provided for the achievable
+region in the space of five figures of merit: the equivocation at the
+wiretapper, the key rate, the distortion of the source reconstruction at the
+legitimate receiver, the bandwidth expansion factor of the coded channels, and
+the average transmission cost (generalized power). Beyond the fact that this is
+an extension of earlier studies, it also provides a framework for studying
+fundamental performance limits of systematic codes in the presence of a wiretap
+channel. The best achievable performance of systematic codes is then compared
+to that of a general code in several respects, and a few examples are given.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 09:34:45 GMT""}]","2007-07-13"
+"gr-qc/0611135","Daniel R. Terno","Etera R. Livine and Daniel R. Terno","Quantum causal histories in the light of quantum information","9 pages, 8 eps figures","Phys.Rev.D75:084001,2007","10.1103/PhysRevD.75.084001",,"gr-qc astro-ph hep-th quant-ph",,"  We use techniques of quantum information theory to analyze the quantum causal
+histories approach to quantum gravity. We show that while it is consistent to
+introduce closed timelike curves (CTCs), they cannot generically carry
+independent degrees of freedom. Moreover, if the effective dynamics of the
+chronology-respecting part of the system is linear, it should be completely
+decoupled from the CTCs. In the absence of a CTC not all causal structures
+admit the introduction of quantum mechanics. It is possible for those and only
+for those causal structures that can be represented as quantum computational
+networks. The dynamics of the subsystems should not be unitary or even
+completely positive. However, we show that other commonly maid assumptions
+ensure the complete positivity of the reduced dynamics.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 05:30:30 GMT""}]","2008-11-26"
+"gr-qc/0611138","Miguel S\'anchez","Antonio N. Bernal and Miguel S\'anchez","Globally hyperbolic spacetimes can be defined as ""causal"" instead of
+  ""strongly causal""","5 pages, no figures, latex. This paper includes the results
+  concerning global hyperbolicity in previous gr-qc/0610136 (which will be
+  withdrawn)","Class.Quant.Grav. 24 (2007) 745-750","10.1088/0264-9381/24/3/N01",,"gr-qc",,"  The classical definition of {\em global hyperbolicity} for a spacetime
+$(M,g)$ comprises two conditions: (A) compactness of the diamonds $J^+(p)\cap
+J^-(q)$, and (B) strong causality. Here we show that condition (B) can be
+replaced just by causality. In fact, we show first that the classical
+definition of causal simplicity (which impose to be distinguishing, apart from
+the closedness of $J^+(p)$, $J^-(q)$) can be weakened in causal instead of
+distinguishing. So, the full consistency of the causal ladder (recently proved
+by the authors in a definitive way) yields directly the result.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 14:53:39 GMT""}]","2009-11-11"
+"hep-ex/0611045","Norihiko Satoyama","N. Satoyama, et al. (for the Belle Collaboration)","A Search for the Rare Leptonic Decays B+ -> mu+ nu and B+ -> e+ nu","13 pages, 10 figures, accepted to Phys. Lett. B","Phys.Lett.B647:67-73,2007","10.1016/j.physletb.2007.01.068","Belle Preprint 2006-36, KEK Preprint 2006-53","hep-ex",,"  We present a search for the decays B+ -> mu+ nu_mu and B+ -> e+ nu_e in a 253
+fb-1 data sample collected at the \Upsilon(4S) resonance with the Belle
+detector at the KEKB asymmetric-energy B factory. We find no significant
+evidence for a signal and set 90% confidence level upper limits of B(B+ -> mu+
+nu_mu) < 1.7 x 10^{-6} and B(B+ -> e+ nu_e) < 9.8 x 10^{-7}.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 05:27:22 GMT""},{""version"":""v2"",""created"":""Mon, 22 Jan 2007 03:31:39 GMT""}]","2019-08-14"
+"hep-ph/0611315","Alan R. White","Alan R. White","Getting to Know BFKL","Contribution to the Proceedings of HSQCD 2005 (recently requested)",,,,"hep-ph",,"  As a 30th anniversary tribute, I discuss the present and possible future
+impact of the physics and the physicists of BFKL.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 15:46:36 GMT""}]","2007-05-23"
+"hep-ph/0611317","Vladimir Pascalutsa","Vladimir Pascalutsa, Marc Vanderhaeghen","The gamma-N -> Delta transition in chiral effective-field theory","9 pages, 7 figures; prepared for the proceedings of ""Shapes of
+  Hadrons"" workshop, Athens, Greece, 25-30 April 2006","AIP Conf.Proc.904:158-166,2007","10.1063/1.2734301",,"hep-ph",,"  We describe the pion electroproduction processes in the
+$\Delta$(1232)-resonance region within the framework of chiral effective-field
+theory. By studying the observables of pion electroproduction in a
+next-to-leading order calculation we are able to make predictions and draw
+conclusions on the properties of the $N\to \Delta$ electromagnetic form
+factors.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 23:34:11 GMT""}]","2014-11-18"
+"hep-ph/0611318","Shi-Lin Zhu","Yuan-Ben Dai, Shi-Lin Zhu","New QCD Sum Rule for $D(0^+)$","Comments and suggestions welcome!",,,,"hep-ph hep-ex",,"  We derive a new QCD sum rule for $D(0^+)$ which has only the $D\pi$ continuum
+with a resonance in the hadron side, using the assumption similar to that has
+been successfully used in our previous work to the mass of $D_s(0^+)(2317)$.
+For the value of the pole mass $M_c=1.38 $ GeV as used in the $D_s(0^+)$ case
+we find that the mass of $D(0^+)$ derived from this sum rule is significantly
+lower than that derived from the sum rule with the pole approximation. Our
+result is in agreement with the experimental dada from Belle.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 07:30:07 GMT""}]","2007-05-23"
+"hep-ph/0611319","Gui-Jun Ding","Gui-Jun Ding, Mu-Lin Yan","A Candidate for $1^{--}$ Strangeonium Hybrid","20 pages, 7 figures","Phys.Lett.B650:390-400,2007","10.1016/j.physletb.2007.05.026",,"hep-ph",,"  We propose that the recently observed structure at 2175MeV by the Babar
+Collaboration is a $1^{--}$ strangeonium hybrid, and we investigate this
+interpretation from both the flux tube model and the constituent gluon model.
+The decay patterns and decay width in the flux tube model and the constituent
+gluon model (for the ""gluon excited"" hybrid) are very similar. The tetraquark
+hypothesis is not favored by the available experimental data. The crucial test
+of our scenario is suggested, furthermore, the promising channels which can
+discriminate the hybrid interpretation from the tetraquark are also suggested.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 08:06:15 GMT""},{""version"":""v2"",""created"":""Tue, 9 Jan 2007 18:33:34 GMT""},{""version"":""v3"",""created"":""Sun, 3 Jun 2007 12:03:34 GMT""}]","2008-11-26"
+"hep-ph/0611320","Kazunori Nakayama","Masahiro Kawasaki, Kazunori Nakayama","Affleck-Dine baryogenesis in anomaly-mediated SUSY breaking","17 pages, 4 figures; Minor corrections, added a reference","JCAP 0702:002,2007","10.1088/1475-7516/2007/02/002",,"hep-ph",,"  It has been known that in anomaly-mediated SUSY breaking model Affleck-Dine
+baryogenesis does not work due to trapping of Affleck-Dine field into
+charge-breaking minima. We show that when finite-temperature effect is properly
+taken into account and if reheating temperature is relatively high, the problem
+of falling into charge breaking global minima can be avoided and hence
+Affleck-Dine baryogenesis works. Moreover, for the LH_u flat direction we
+obtain a constraint on the mass of neutrino.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 09:52:54 GMT""},{""version"":""v2"",""created"":""Fri, 2 Feb 2007 11:39:47 GMT""}]","2010-10-27"
+"hep-th/0611276","Marco Frasca","Marco Frasca","Proof of triviality of $\lambda\phi^4$ theory","5 pages, 1 figure. Updated references and added some more. Comparison
+  with lattice data of the gluon propagator is given finding excellent
+  agreement. Accepted for publication in International Journal of Modern
+  Physics A","Int.J.Mod.Phys.A22:2433-2439,2007","10.1142/S0217751X07036427",,"hep-th hep-lat hep-ph math-ph math.MP",,"  We show that a recent analysis in the strong coupling limit of the
+$\lambda\phi^4$ theory proves that this theory is indeed trivial giving in this
+limit the expansion of a free quantum field theory. We can get in this way the
+propagator with the renormalization constant and the renormalized mass. As
+expected the theory in this limit has the same spectrum as a harmonic
+oscillator. Some comments about triviality of the Yang-Mills theory in the
+infrared are also given.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 10:26:00 GMT""},{""version"":""v2"",""created"":""Sun, 3 Dec 2006 13:56:42 GMT""},{""version"":""v3"",""created"":""Fri, 9 Feb 2007 08:44:48 GMT""},{""version"":""v4"",""created"":""Tue, 27 Feb 2007 13:57:34 GMT""},{""version"":""v5"",""created"":""Wed, 21 Mar 2007 22:22:36 GMT""}]","2008-11-26"
+"hep-th/0611277","Saswat Sarangi","Sash Sarangi, Koenraad Schalm, Gary Shiu, Jan Pieter van der Schaar","Exact spectrum of scalar field perturbations in a radiation deformed
+  closed de Sitter universe","16 pages, 2 figures","JCAP 0703:002,2007","10.1088/1475-7516/2007/03/002",,"hep-th",,"  We observe that the equation of motion for a free scalar field in a closed
+universe with radiation and a positive cosmological constant is given by
+Lam\'e's equation. Computing the exact power spectrum of scalar field
+perturbations, the presence of both curvature and radiation produces a red tilt
+weakly dependent on the amount of radiation.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 20:57:40 GMT""}]","2010-10-27"
+"hep-th/0611280","Victor Red'kov","V.M. Red'kov","On solutions of Schrodinger and Dirac equations in spaces of constant
+  curvature, spherical and elliptical models","54 pages. Report to 13th International School & Conference
+  ""Foundation & Advances in Nonlinear Science"", Eds.: Kuvshinov V.I., Krylov
+  G.G., Minsk, 2006","Nonlin.Phenom.Complex Syst. 10:312-334,2007",,,"hep-th",,"  Exact solutions of the Schrodinger and Dirac equations in generalized
+cylindrical coordinates of the 3-dimensional space of positive constant
+curvature, spherical model, have been obtained. It is shown that all basis
+Schrodinger's and Dirac's wave functions are finite, single-valued, and
+continuous everywhere in spherical space model S_{3}. The used coordinates
+(\rho, \phi,z) are simply referred to Eiler's angle variables (\alpha, \beta,
+\gamma), parameters on the unitary group SU(2), which permits to express the
+constructed wave solutions \Psi(\rho, phi,z) in terms of Wigner's functions
+$D_{mm'}^{j}(\alpha, \beta, \gamma)$. Specification of the analysis to the case
+of elliptic, SO(3.R) group space, model has been done. In so doing, the results
+substantially depend upon the spin of the particle. In scalar case, the part of
+the Schrodinger wave solutions must be excluded by continuity considerations,
+remaining functions are continuous everywhere in the elliptical 3-space. The
+latter is in agrement with the known statement: the Wigner functions
+D_{mm'}^{j}(\alpha, \beta, \gamma) at j =0,1,2,... make up a correct basis in
+SO(3.R) group space. For the fermion case, it is shown that no Dirac solutions,
+continuous everywhere in elliptical space, do exist. Description of the Dirac
+particle in elliptical space of positive constant curvature cannot be correctly
+in the sense of continuity adjusted with its topological structure.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 10:08:44 GMT""}]","2011-09-15"
+"hep-th/0611281","Schwarz","Albert Schwarz, Xiang Tang","Quantization and holomorphic anomaly","15 pages","JHEP 0703:062,2007","10.1088/1126-6708/2007/03/062",,"hep-th",,"  We study wave functions of B-model on a Calabi-Yau threefold in various
+polarizations.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 12:40:45 GMT""},{""version"":""v2"",""created"":""Thu, 4 Jan 2007 07:06:24 GMT""}]","2010-10-27"
+"math-ph/0611068","Dmitri Prokhorenko","D.V. Prokhorenko","On Some Nonlinear Integral Equation in the (Super)String Theory",,,,,"math-ph astro-ph hep-th math.MP",,"  In this work some nonlinear integral equation is studied. This equation has
+arisen in the (super)string field theory and cosmology. In this work it is
+proved that some boundary problem for this equation has a solution.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 23:30:06 GMT""}]","2007-05-23"
+"math/0611770","David Pollard","David Pollard","A note on Talagrand's convex hull concentration inequality","To appear in Festschrift for Piet Groeneboom",,,,"math.PR math.CO",,"  The paper reexamines an argument by Talagrand that leads to a remarkable
+exponential tail bound for the concentration of probability near a set. The
+main novelty is the replacement of a mysterious Calculus inequality by an
+application of Jensen's inequality.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 20:58:38 GMT""}]","2007-05-23"
+"math/0611783","Paul M. Terwilliger","Kazumasa Nomura and Paul Terwilliger","Affine transformations of a Leonard pair","33 pages",,,,"math.RA math.CO",,"  Let $K$ denote a field and let $V$ denote a vector space over $K$ with finite
+positive dimension. We consider an ordered pair of linear transformations $A :
+V \to V$ and $A^* : V \to V$ that satisfy (i) and (ii) below:
+  (i) There exists a basis for $V$ with respect to which the matrix
+representing $A$ is irreducible tridiagonal and the matrix representing $A^*$
+is diagonal.
+  (ii) There exists a basis for $V$ with respect to which the matrix
+representing $A^*$ is irreducible tridiagonal and the matrix representing $A$
+is diagonal.
+  We call such a pair a Leonard pair on $V$. Let $x$, $c$, $x^*$, $c^*$ denote
+scalars in $K$ with $x$, $x^*$ nonzero, and note that $xA+cI$, $x^*A^* + c^*I$
+is a Leonard pair on $V$. We give necessary and sufficient conditions for this
+Leonard pair to be isomorphic to the Leonard pair $A$, $A^*$. We also give
+necessary and sufficient conditions for this Leonard pair to be isomorphic to
+the Leonard pair $A^*$, $A$.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 16:15:12 GMT""}]","2007-05-23"
+"math/0611784","Grzegorz Bobi\'nski","Grzegorz Bobinski","On the zero set of semi-invariants for regular modules over tame
+  canonical algebras",,,,,"math.RT math.AG",,"  We investigate sets of the common zeros of non-constant semi-invariants for
+regular modules over canonical algebras. In particular, we show that if the
+considered algebra is tame then for big enough vectors these sets are complete
+intersections.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 19:38:42 GMT""},{""version"":""v2"",""created"":""Tue, 23 Oct 2007 14:49:47 GMT""}]","2007-10-23"
+"math/0611785","Oleg Mokhov","O.I.Mokhov","The classification of nonsingular multidimensional Dubrovin-Novikov
+  brackets",,"Functional Analysis and its Applications, Vol. 42, No. 1, 2008,
+  33-44.",,"MPIM2006-148, Max-Planck-Institut fuer Mathematik, Bonn, Germany.","math.DG hep-th math-ph math.MP math.RA math.SG nlin.SI physics.flu-dyn",,"  In this paper the well-known Dubrovin-Novikov problem posed as long ago as
+1984 in connection with the Hamiltonian theory of systems of hydrodynamic type,
+namely, the classification problem for multidimensional Poisson brackets of
+hydrodynamic type, is solved. In contrast to the one-dimensional case, in the
+general case, a nondegenerate multidimensional Poisson bracket of hydrodynamic
+type cannot be reduced to a constant form by a local change of coordinates.
+Generally speaking, such a Poisson bracket is generated by a nontrivial special
+infinite-dimensional Lie algebra. In this paper we obtain a classification of
+all nonsingular nondegenerate multidimensional Poisson brackets of hydrodynamic
+type for any number N of components and for any dimension n by
+differential-geometric methods. A key role in the solution of this problem was
+played by the theory of compatible metrics that had been earlier constructed by
+the present author.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 19:20:08 GMT""}]","2016-09-07"
+"math/0611786","Michael Megrelishvili","Michael Megrelishvili","Compactifications of Semigroups and Semigroup Actions","Minor corrections",,,,"math.GN math.DS",,"  An action of a topological semigroup S on X is compactifiable if this action
+is a restriction of a jointly continuous action of S on a Hausdorff compact
+space Y. A topological semigroup S is compactifiable if the left action of S on
+itself is compactifiable. It is well known that every Hausdorff topological
+group is compactifiable. This result cannot be extended to the class of
+Tychonoff topological monoids. At the same time, several natural constructions
+lead to compactifiable semigroups and actions. We prove that the semigroup
+C(K,K) of all continuous selfmaps on the Hilbert cube K is a universal second
+countable compactifiable semigroup (semigroup version of Uspenskij's theorem).
+Moreover, the Hilbert cube K under the action of C(K,K) is universal in the
+realm of all compactifiable S-flows X with compactifiable S where both X and S
+are second countable. We strengthen some related results of Kocak & Strauss and
+Ferry & Strauss about Samuel compactifications of semigroups. Some results
+concern compactifications with separately continuous actions,
+LMC-compactifications and LMC-functions introduced by Mitchell.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 19:23:26 GMT""},{""version"":""v2"",""created"":""Sun, 10 Dec 2006 14:31:16 GMT""}]","2007-05-23"
+"math/0611787","Ra\'ul Ures","F. Rodriguez Hertz, M. A. Rodriguez Hertz, R. Ures","Partial hyperbolicity and ergodicity in dimension three","14 pages",,,,"math.DS",,"  In [15] the authors proved the Pugh-Shub conjecture for partially hyperbolic
+diffeomorphisms with 1-dimensional center, i.e. stable ergodic diffeomorphism
+are dense among the partially hyperbolic ones. In this work we address the
+issue of giving a more accurate description of this abundance of ergodicity. In
+particular, we give the first examples of manifolds in which all conservative
+partially hyperbolic diffeomorphisms are ergodic.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 21:15:47 GMT""}]","2007-05-23"
+"math/0611788","Gabriel Paternain","N.S. Dairbekov, G.P. Paternain, P. Stefanov, G. Uhlmann","The boundary rigidity problem in the presence of a magnetic field","This revised version contains a proof that 2D simple magnetic systems
+  are boundary rigid. Some references have been added",,,,"math.DG math.AP",,"  For a compact Riemannian manifold with boundary, endowed with a magnetic
+potential $\alpha$, we consider the problem of restoring the metric $g$ and the
+magnetic potential $\alpha$ from the values of the Ma\~n\'e action potential
+between boundary points and the associated linearized problem. We study simple
+magnetic systems. In this case, knowledge of the Ma\~n\'e action potential is
+equivalent to knowledge of the scattering relation on the boundary which maps a
+starting point and a direction of a magnetic geodesic into its end point and
+direction. This problem can only be solved up to an isometry and a gauge
+transformation of $\alpha$.
+  For the linearized problem, we show injectivity, up to the natural
+obstruction, under explicit bounds on the curvature and on $\alpha$. We also
+show injectivity and stability for $g$ and $\alpha$ in a generic class
+$\mathcal{G}$ including real analytic ones.
+  For the nonlinear problem, we show rigidity for real analytic simple $g$,
+$\alpha$. Also, rigidity holds for metrics in a given conformal class, and
+locally, near any $(g,\alpha)\in \mathcal{G}$.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 21:34:57 GMT""},{""version"":""v2"",""created"":""Wed, 16 May 2007 22:19:17 GMT""}]","2007-05-23"
+"math/0611789","Gabriela Ovando","Gabriela Ovando","Two-step nilpotent Lie algebras with ad-invariant metrics and a special
+  kind of skew-symmetric maps","17 pages","J. Algebra Appl. 6 no. 6 (2007), 897 - 917.",,,"math.RA",,"  We prove that a 2-step nilpotent Lie algebras admitting an ad-invariant
+metric can be constructed from a vector space $\mathfrak v$ endowed with a
+inner product $<, >$ and an injective homomorphism $\rho: \mathfrak v \to
+\mathfrak{so}(\mathfrak v)$ satisfying $\rho(v)v=0$ for all $v\in \mathfrak v$.
+The corresponding simply connected pseudo-Riemannian Lie groups are flat and
+any isometry fixing the identity element does not depend on $\rho$. The
+description allows to construct examples starting with a compact semisimple Lie
+algebra and it is useful to show some applications.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 00:33:35 GMT""}]","2009-11-23"
+"math/0611790","Margherita Barile Prof.","Margherita Barile","On the arithmetical rank of certain monomial ideals","Section 2 was added",,,,"math.AC",,"  We determine a new technique which allows the computation of the arithmetical
+rank of certain monomial ideals.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 11:30:01 GMT""},{""version"":""v2"",""created"":""Wed, 20 Feb 2008 13:55:42 GMT""}]","2008-02-20"
+"math/0611791","Taekyun Kim","Taekyun Kim and SAeog-Hoon Rim","A New Changhee q-Euler Numbers and Polynomials Associated with p-Adic
+  q-Integrals","8 pages",,,,"math.NT",,"  Using non-archimedean q-integrals on Zp defined in [15, 16], we define a new
+Changhee q-Euler polynomials and numbers which are different from those of Kim
+[7] and Carlitz [2]. We define generating functions of multiple q-Euler numbers
+and polynomials. Furthermore we construct multivariate Hurwitz type zeta
+function which interpolates the multivariate q-Euler numbers or polynomials at
+negative integers.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 11:37:46 GMT""}]","2007-05-23"
+"math/0611792","Vicentiu Radulescu","Marius Ghergu, Vicentiu Radulescu","A singular Gierer-Meinhardt system with different source terms",,,,,"math.AP",,"  We study the existence or the nonexistence of classical solutions to a
+singular Gierer-Meinhardt system with Dirichlet boundary condition. The main
+feature of our model is that the activator and the inhibitor have different
+sources given by general nonlinearities. Additional regularity and uniqueness
+results are established for the one dimensional case.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 11:52:20 GMT""}]","2007-05-23"
+"math/0611793","Elisabeth Remm","Michel Goze","Lie algebras : Classification, Deformations and Rigidity","43 pages. Lessons given during the {\it Cinqui\`eme Ecole de
+  G\'eom\'etrie Diff\'erentielle et Syst\`emes Dynamiques}, ENSET ORAN
+  (Algeria), november 4-11, 2006",,,,"math.RA math-ph math.MP",,"  In the first section we recall some basic notions on Lie algebras. In a
+second time we study the algebraic variety of complex $n$-dimensional Lie
+algebras. We present different notions of deformations : Gerstenhaber
+deformations, pertubations, valued deformations and we use these tools to study
+some properties of this variety. Finaly we introduce the concept of rigidity
+and we present some results on the class of rigid Lie algebras.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 13:35:18 GMT""}]","2007-05-23"
+"nlin/0611048","Chandrasekar Kuppusamy","V. K. Chandrasekar, M. Senthilvelan, M. Lakshmanan","On the Lagrangian and Hamiltonian description of the damped linear
+  harmonic oscillator","19 pages",,"10.1063/1.2711375",,"nlin.SI",,"  Using the modified Prelle- Singer approach, we point out that explicit time
+independent first integrals can be identified for the damped linear harmonic
+oscillator in different parameter regimes. Using these constants of motion, an
+appropriate Lagrangian and Hamiltonian formalism is developed and the resultant
+canonical equations are shown to lead to the standard dynamical description.
+Suitable canonical transformations to standard Hamiltonian forms are also
+obtained. It is also shown that a possible quantum mechanical description can
+be developed either in the coordinate or momentum representations using the
+Hamiltonian forms.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 11:30:58 GMT""}]","2015-06-26"
+"nucl-ex/0611039","Michael Hass","Michael Hass","Low-Energy Nuclear Astrophysics - the Fascinating Region of A=7","8 pages, 6 figures. Proceedings of the Erice School on Nuclear
+  Physics, 2006. To appear in: ""Prog. Part. Nucl. Phys.""",,"10.1016/j.ppnp.2006.12.009",,"nucl-ex astro-ph",,"  We discuss results and future plans for low-energy reactions that play an
+important role in current nuclear astrophysics research and that happen to
+concentrate around the region of A=7. The 7Be(p,gamma)8B and the
+3He(4He,gamma)7Be reactions are crucial for understanding the solar-neutrino
+oscillations phenomenon and the latter one plays a central role in the issue of
+cosmic 7Li abundance and Big-Bang Nucleosynthesis. We also present results
+regarding the host dependence of the half life of the electron-capture 7Be
+radio-nuclide.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 13:32:42 GMT""}]","2009-11-11"
+"physics/0611246","Dmitry Budker","D. Budker and M. V. Romalis","Optical Magnetometry","11 pages; 4 figures; submitted to Nature Physics",,"10.1038/nphys566",,"physics.atom-ph physics.ins-det",,"  Some of the most sensitive methods of measuring magnetic fields utilize
+interactions of resonant light with atomic vapor. Recent developments in this
+vibrant field are improving magnetometers in many traditional areas such as
+measurement of geomagnetic anomalies and magnetic fields in space, and are
+opening the door to new ones, including, dynamical measurements of bio-magnetic
+fields, detection of nuclear magnetic resonance (NMR), magnetic-resonance
+imaging (MRI), inertial-rotation sensing, magnetic microscopy with cold atoms,
+and tests of fundamental symmetries of Nature.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 08:16:57 GMT""}]","2015-06-26"
+"physics/0611247","Luciano da Fontoura Costa","Luciano da F. Costa, Olaf Sporns, Lucas Antiqueira, Maria das Gracas
+  V. Nunes and Osvaldo N. Oliveira Jr","Correlations between structure and dynamics in complex networks","16 pages, 7 figures, 1 table","Appl. Phys. Lett. 91, 054107(2007)","10.1063/1.2766683",,"physics.comp-ph cond-mat.stat-mech physics.data-an",,"  Previous efforts in complex networks research focused mainly on the
+topological features of such networks, but now also encompass the dynamics. In
+this Letter we discuss the relationship between structure and dynamics, with an
+emphasis on identifying whether a topological hub, i.e. a node with high degree
+or strength, is also a dynamical hub, i.e. a node with high activity. We employ
+random walk dynamics and establish the necessary conditions for a network to be
+topologically and dynamically fully correlated, with topological hubs that are
+also highly active. Zipf's law is then shown to be a reflection of the match
+between structure and dynamics in a fully correlated network, as well as a
+consequence of the rich-get-richer evolution inherent in scale-free networks.
+We also examine a number of real networks for correlations between topology and
+dynamics and find that many of them are not fully correlated.
+","[{""version"":""v1"",""created"":""Sun, 26 Nov 2006 10:37:19 GMT""}]","2007-09-19"
+"quant-ph/0611256","Mohamad Ali Jafarizadeh","M. A. Jafarizadeh, G. Najarbashi, H. Habibian","Manipulating Multi-qudit Entanglement Witnesses by Using Linear
+  Programming","29 pages, 4 figures",,"10.1103/PhysRevA.75.052326",,"quant-ph",,"  A new class of entanglement witnesses (EWs) called reduction type
+entanglement witnesses is introduced, which can detect some multi-qudit
+entangeled states including PPT ones with Hilbert space of dimension
+$d_{_{1}}\otimes d_{_{2}}\otimes...\otimes d_{_{n}}$. The novelty of this work
+comes from the fact that the feasible regions turn out to be convex polygons,
+hence the manipulation of these EWs reduces to linear programming which can be
+solved \emph{exactly} by using simplex method. The decomposability and
+non-decomposability of these EWs are studied and it is shown that it has a
+close connection with eigenvalues and optimality of EWs. Also using the Jamio\l
+kowski isomorphism, the corresponding possible positive maps, including the
+generalized reduction maps of Ref. \cite{Hall1}, are obtained.
+","[{""version"":""v1"",""created"":""Sat, 25 Nov 2006 17:57:26 GMT""}]","2009-11-13"
